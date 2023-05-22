@@ -13,7 +13,7 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 1.1 Personal Information
 The App does not collect any personally identifiable information (PII) from users unless explicitly provided by the user for support or contact purposes. If you choose to contact us through the App or via email, we may collect and retain sanjivkumarhzb1427@gmail.com, and any other information you provide to us for the purpose of addressing your inquiries or providing assistance.
 
-### 1.2 Non-Personal Information
+1.2 Non-Personal Information
 The App may collect non-personal information automatically as part of its standard operation. This may include technical information about your device, such as the device model, operating system version, unique device identifier, IP address, and mobile network information. We collect this information anonymously and use it for diagnostic purposes, to improve the functionality of the App, and to analyze usage trends.
 
 ### Source of Government Information
